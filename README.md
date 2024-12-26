@@ -1,0 +1,1 @@
+This repository contains a collection of software tools and models for simulating and forecasting weather patterns. The purpose of this project is to provide an efficient and scalable approach for weather prediction using machine learning, statistical models, and data from various weather stations.
